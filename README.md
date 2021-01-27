@@ -8,6 +8,7 @@ Adding a line
 Sample website with plenty of files for demos
 
 ## Introduction
+More changes from myfeature branch 
 
 ## How To Contribute
 Please fork this repository and then issue Pull request
